@@ -1,0 +1,24 @@
+{
+    "Rose":{
+        "Name": "Roses",
+    "Water": "5 Litters",
+    "MinimumHeat":"-40 F",
+    "MaximumHeat":"100 F",
+    "AverageLife":"7 Years"
+    },
+    "almond":{
+        "Name": "almond",
+    "Water": "4.16 Litters",
+    "MinimumHeat":"-50 F",
+    "MaximumHeat":"45 F",
+    "AverageLife":"22 Years"
+    } , 
+    "Cherry":{
+        "Name": "Cherry",
+    "Water": "37.4 Litters",
+    "MinimumHeat":"32 F",
+    "MaximumHeat":"50 F",
+    "AverageLife":"250 Years"
+    }
+    
+}
